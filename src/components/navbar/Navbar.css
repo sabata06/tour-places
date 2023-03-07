@@ -1,0 +1,19 @@
+.nav-bar{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 8vh;  
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    padding: 30px;
+}
+
+a:hover{
+    background-color: white;
+    color: black;
+}
